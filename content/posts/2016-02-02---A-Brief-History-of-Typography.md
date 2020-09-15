@@ -1,54 +1,29 @@
 ---
-title: "A Brief History of Typography"
-date: "2016-02-02T22:40:32.169Z"
-template: "post"
+template: post
+slug: how-do-you-wanna-do-this
 draft: false
-slug: "a-brief-history-of-typography"
-category: "Design Inspiration"
+socialImage: /media/image-0.jpg
+title: How do you wanna do this?
+date: 2020-09-15T20:41:36.351Z
+description: Create a new website presented the opportunity to explore new
+  frameworks but I really wasn't ready for just how many there were to choose
+  from.
+category: Technology
 tags:
-  - "Linotype"
-  - "Monotype"
-  - "History of typography"
-  - "Helvetica"
-description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
-socialImage: "/media/image-0.jpg"
+  - technology
+  - gatsby
+  - development
 ---
+There I was, searching the web for the perfect stack to build my new website. Little did I know, the many sleepless nights I would have falling deeper into the rabbit hole of front-end technologies. There were so many ways this could go. I salivated at the idea of it all being so simple and easy with a framework like Wordpress. Oh, but the challenge of exploring something I hadn't already fleshed out was appetising too. Choices were plenty but there was only one way to settle this if I wanted a website up and running before the end of 2020.
 
-**Pellentesque habitant morbi tristique** senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. *Aenean ultricies mi vitae est.* Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. 
-
-Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.  [Donec non enim](#) in turpis pulvinar facilisis.
-
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-0.jpg)
+![Image of a laptop, showing lines of code.](/media/photo-1508830524289-0adcbe822b40.jpg)
 
 ## Header Level 2
 
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
+**So, what was it going to be?** Vue, React or straight up HTML5? Heroku, Gatsby or Next? Did I want a CMS or not? Templates or no templates?
 
-Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. 
+**The verdict.** If you're reading this, you're looking at a website powered by [Netlify](https://www.netlify.com/) and [GatsbyJS](https://www.gatsbyjs.com/).
 
-<figure>
-	<blockquote>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p>
-		<footer>
-			<cite>— Aliquam tincidunt mauris eu risus.</cite>
-		</footer>
-	</blockquote>
-</figure>
+**My reasons why:** I had briefly used Gatsby before and was satisfied with how quickly you can get something up and running with the framework. I chose to go with a Netlify CMS as I come from a background in Wordpress and enjoy the visual benefits of seeing my post previews before actually posting them. I figured Netlify CMS was going to be a lot more secure and lightweight than WP though due to it's JamStack technology.
 
-### Header Level 3
-
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.
-
-```css
-#header h1 a {
-  display: block;
-  width: 300px;
-  height: 80px;
-}
-```
-
-Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+**The challenges:** "*Quick and easy*", they said. "*You'll be up in no time*", they told me. And they were wrong every time. I'll be honest, starting out was difficult for me due to it being brand new territory and side note: apparently I'm not very good at using Google. I was able to equip the help of some friends and I devoured the blogs of kind internet folks, imparting their wisdom. From my experience, Gatsby Starters aren't always an "out of the box" solution, this is perhaps due to lack of maintenance or contributions that haven't been thorough tested, however, my errors weren't too much of an inconvenience and I was soon on my way to deployment.
