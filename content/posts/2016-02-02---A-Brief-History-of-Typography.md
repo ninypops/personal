@@ -18,7 +18,7 @@ There I was, searching the web for the perfect stack to build my new website. Li
 
 ![Image of a laptop, showing lines of code.](/media/photo-1508830524289-0adcbe822b40.jpg)
 
-## Header Level 2
+(Photo by https://unsplash.com/@altumcode)
 
 **So, what was it going to be?** Vue, React or straight up HTML5? Heroku, Gatsby or Next? Did I want a CMS or not? Templates or no templates?
 
