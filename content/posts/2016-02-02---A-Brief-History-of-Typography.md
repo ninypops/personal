@@ -14,7 +14,7 @@ tags:
   - gatsby
   - development
 ---
-There I was, searching the web for the perfect stack to build my new website. Little did I know, the many sleepless nights I would have falling deeper into the rabbit hole of front-end technologies. There were so many ways this could go. I salivated at the idea of it all being so simple and easy with a framework like Wordpress. Oh, but the challenge of exploring something I hadn't already fleshed out was appetising too. Choices were plenty but there was only one way to settle this if I wanted a website up and running before the end of 2020.
+There I was, searching the web for the perfect stack to build my new website. Little did I know, the many sleepless nights I would have falling deeper into the rabbit hole of front-end technologies. There were so many ways this could go. I contemplated the idea of turning toward a familiar fully-functional application such as Wordpress. Oh, but the challenge of exploring something I hadn't already was truly appetising. Choices were plenty but there was only one way to settle this if I wanted a website up and running before the end of 2020.
 
 ![Image of a laptop, showing lines of code.](/media/photo-1508830524289-0adcbe822b40.jpg)
 
