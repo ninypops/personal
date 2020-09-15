@@ -20,10 +20,26 @@ There I was, searching the web for the perfect stack to build my new website. Li
 
 (Photo by https://unsplash.com/@altumcode)
 
-**So, what was it going to be?** Vue, React or straight up HTML5? Heroku, Gatsby or Next? Did I want a CMS or not? Templates or no templates?
 
-**The verdict.** If you're reading this, you're looking at a website powered by [Netlify](https://www.netlify.com/) and [GatsbyJS](https://www.gatsbyjs.com/).
 
-**My reasons why:** I had briefly used Gatsby before and was satisfied with how quickly you can get something up and running with the framework. I chose to go with a Netlify CMS as I come from a background in Wordpress and enjoy the visual benefits of seeing my post previews before actually posting them. I figured Netlify CMS was going to be a lot more secure and lightweight than WP though due to it's JamStack technology.
+#### **So, what was it going to be?**
 
-**The challenges:** "*Quick and easy*", they said. "*You'll be up in no time*", they told me. And they were wrong every time. I'll be honest, starting out was difficult for me due to it being brand new territory and side note: apparently I'm not very good at using Google. I was able to equip the help of some friends and I devoured the blogs of kind internet folks, imparting their wisdom. From my experience, Gatsby Starters aren't always an "out of the box" solution, this is perhaps due to lack of maintenance or contributions that haven't been thorough tested, however, my errors weren't too much of an inconvenience and I was soon on my way to deployment.
+Vue, React or straight up HTML5? Heroku, Gatsby or Next? Did I want a CMS or not? Templates or no templates?
+
+
+
+#### **The verdict.**
+
+If you're reading this, you're looking at a website powered by [Netlify](https://www.netlify.com/) and [GatsbyJS](https://www.gatsbyjs.com/).
+
+
+
+#### **My reasons why.**
+
+ I had briefly used Gatsby before and was satisfied with how quickly you can get something up and running with the framework. I chose to go with a Netlify CMS as I come from a background in Wordpress and enjoy the visual benefits of seeing my post previews before actually posting them. I figured Netlify CMS was going to be a lot more secure and lightweight than WP though due to it's JamStack technology.
+
+
+
+#### **The challenges:**
+
+ "*Quick and easy*", they said. "*You'll be up in no time*", they told me. And they were wrong every time. I'll be honest, starting out was difficult for me due to it being brand new territory and side note: apparently I'm not very good at using Google. I was able to equip the help of some friends and I devoured the blogs of kind internet folks, imparting their wisdom. From my experience, Gatsby Starters aren't always an "out of the box" solution, this is perhaps due to lack of maintenance or contributions that haven't been thorough tested, however, my errors weren't too much of an inconvenience and I was soon on my way to deployment.
