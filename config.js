@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Nina Limbrick',
     photo: '/photo.JPG',
-    bio: 'I specialise in front-end-technologies, namely Javascript (ES6), React, HTML &amp; CSS.',
+    bio: 'I specialise in front-end-technologies, namely Javascript (ES6), React, HTML & CSS.',
     contacts: {
       email: '',
       facebook: '',
