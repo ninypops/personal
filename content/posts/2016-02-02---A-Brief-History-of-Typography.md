@@ -5,7 +5,7 @@ draft: false
 socialImage: /media/image-0.jpg
 title: How Do You Wanna Do This?
 date: 2020-09-15T20:41:36.351Z
-description: Create a new website presented the opportunity to explore new
+description: Creating a new website presented the opportunity to explore new
   frameworks but I really wasn't ready for just how many there were to choose
   from.
 category: Technology
