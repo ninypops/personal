@@ -2,7 +2,7 @@
 template: post
 slug: how-do-you-wanna-do-this
 draft: false
-socialImage: /media/image-0.jpg
+socialImage: /media/photo-1508830524289-0adcbe822b40.jpg
 title: How Do You Wanna Do This?
 date: 2020-09-15T20:41:36.351Z
 description: Creating a new website presented the opportunity to explore new
@@ -17,7 +17,6 @@ tags:
 There I was, searching the web for the perfect stack to build my new website. Little did I know, the many sleepless nights I would have falling deeper into the rabbit hole of front-end technologies. There were so many ways this could go. I contemplated the idea of turning toward a familiar fully-functional application such as Wordpress. Oh, but the challenge of exploring something I hadn't already was truly appetising. Choices were plenty but there was only one way to settle this if I wanted a website up and running before the end of 2020.
 
 ![Image of a laptop, showing lines of code.](/media/photo-1508830524289-0adcbe822b40.jpg)
-
 (Photo by https://unsplash.com/@altumcode)
 
 
