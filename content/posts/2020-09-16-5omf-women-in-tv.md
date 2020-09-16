@@ -1,11 +1,11 @@
 ---
 template: post
-title: "(5OMF): Women in TV"
+title: "(5OMF): Female Characters in TV"
 slug: 5OMF-women-in-tv
 draft: true
 date: 2020-09-16T10:36:53.617Z
-description: 50MF stands for 5 Of My Favourites. It's a blog series that I run
-  which highlights 5 things within a particular medium that I'm fond of.
+description: 5 Female Characters in TV that have personally inspired me and
+  represented diverse women in the television industry.
 category: Entertainment, 5OMF
 tags:
   - top 5 characters in tv
@@ -18,7 +18,7 @@ tags:
   - strong female lead
   - female representation
 ---
-> 5OMF is a blog series I started to occasionally highlight 5 things within a particular medium that I want to bring awareness to.
+> 5OMF stands for '5 Of My Favourites". It's a blog series that occasionally highlights 5 things within a particular medium that I put a spotlight on.
 
 Thanks to COVID-19 measures, we're spending an average of six hours and 25 minutes each day in front of a screen (source [independent.co.uk](independent.co.uk)) and have all the time in the world to pick up all of those TV shows we started months ago and never finished. *Can I get an "Amen"?*
 
