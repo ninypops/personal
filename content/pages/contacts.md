@@ -1,7 +1,7 @@
 ---
-title: "Contact me"
-template: "page"
-socialImage: "/media/image-4.jpg"
+# title: "Contact me"
+# template: "page"
+# socialImage: "/media/image-4.jpg"
 ---
 
 I'm not currently looking for work.
