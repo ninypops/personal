@@ -26,20 +26,10 @@ module.exports = {
     bio: 'I specialise in front-end-technologies, namely Javascript (ES6), React, HTML & CSS.',
     contacts: {
       email: '',
-      facebook: '',
-      telegram: '',
       twitter: 'ninypops',
       github: 'ninypops',
-      rss: '',
-      vkontakte: '',
       linkedin: 'ninalimbrick',
-      instagram: '',
-      line: '',
-      gitlab: '',
-      weibo: '',
       codepen: '',
-      youtube: '',
-      soundcloud: '',
     }
   }
 };
