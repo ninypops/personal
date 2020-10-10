@@ -16,7 +16,7 @@
     @include margin(.5, 0, .5, 0);
 
     &-link {
-      color: $color-base;
+      color: $color-primary;
 
       &:hover,
       &:focus {
@@ -28,7 +28,7 @@
   }
 
   &__subtitle {
-    color: $color-gray;
+    color: $color-base;
     @include line-height(1);
     @include margin-bottom(1)
   }
