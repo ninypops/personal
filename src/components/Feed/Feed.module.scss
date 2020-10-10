@@ -17,13 +17,6 @@
 
       &-link {
         color: $color-primary;
-
-        &:hover,
-        &:focus {
-          color: $color-base;
-          border-bottom: 1px solid $color-base;
-        }
-
       }
 
     }
@@ -55,7 +48,7 @@
 
           &:hover,
           &:focus {
-            color: $color-primary;
+            border-bottom: 1px solid;;
           }
 
         }

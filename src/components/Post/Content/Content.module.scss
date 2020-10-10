@@ -9,6 +9,7 @@
   &__title {
     font-size: $typographic-base-font-size * 2;
     max-width: $layout-post-width;
+    color: $color-primary;
     margin-left: auto;
     margin-right: auto;
     font-weight: 600;
@@ -33,11 +34,15 @@
           font-size: $typographic-base-font-size * 1.6817;
           margin-top: 0;
           @include margin-bottom(1);
-          @include line-height(1.5)
+          @include line-height(1.5);
         }
 
       }
 
+    }
+
+    & h4 {
+      color: $color-primary;
     }
 
     & a {

@@ -21,8 +21,7 @@
         border: 1px solid $color-gray-border;
         text-decoration: none;
         border-radius: $button-border-radius;
-        color: $color-gray;
-        background: $color-gray-bg;
+        color: $color-base;
 
         &:hover,
         &:focus {
