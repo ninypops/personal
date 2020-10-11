@@ -1,6 +1,6 @@
 ---
 template: post
-title: Adding dark mode to my GatsbyJS website
+title: Adding Dark Mode to my GatsbyJS Website
 slug: adding-dark-mode
 draft: true
 date: 2020-10-11T09:18:13.971Z
