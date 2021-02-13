@@ -24,8 +24,6 @@ Vue, React or straight up HTML5? Heroku, Gatsby or Next? Did I want a CMS or not
 
 Now, the truth is that I had already (kinda) made up my mind. The dealbreaker for me was being able to use ReactJS. I wanted this website to be a playground to learn and experiment with this particular JS library. Why? I had only been practising it for a year and there were a lot of knowledge gaps. I use it every day at work but within the context of the software that I'm developing and so I wanted to be able to build something a little more casual with a lot more liberties.
 
-![Man performing a drum roll](/media/tenor1.gif)
-
 #### **The verdict.**
 
 If you're reading this, you're looking at a website powered by [Netlify](https://www.netlify.com/) and [GatsbyJS](https://www.gatsbyjs.com/).
