@@ -202,6 +202,13 @@ module.exports = {
         }
       }
     },
+    {
+      resolve: `gatsby-plugin-canonical-urls`,
+      options: {
+        siteUrl: `https://www.ninypops.com`,
+        stripQueryString: true,
+      },
+    },
     'gatsby-plugin-flow',
     'gatsby-plugin-optimize-svgs',
   ]
