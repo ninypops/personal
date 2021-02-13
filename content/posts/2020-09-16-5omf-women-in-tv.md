@@ -1,6 +1,6 @@
 ---
 template: post
-title: "(5OMF): Female Characters in TV"
+title: "5OMF: Female Characters in TV"
 slug: 5OMF-women-in-tv
 draft: true
 date: 2020-09-16T10:36:53.617Z
