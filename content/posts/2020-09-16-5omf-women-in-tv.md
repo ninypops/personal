@@ -6,7 +6,7 @@ draft: true
 date: 2020-09-16T10:36:53.617Z
 description: 5 Female Characters in TV that have personally inspired me and
   represented diverse women in the television industry.
-category: Entertainment, 5OMF
+category: Media, 5OMF
 tags:
   - top 5 characters in tv
   - ashley johnson blindspot
