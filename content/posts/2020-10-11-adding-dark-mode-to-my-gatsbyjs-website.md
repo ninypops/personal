@@ -5,7 +5,7 @@ slug: adding-dark-mode
 draft: true
 date: 2020-10-11T09:18:13.971Z
 description: I run you through how I added dark mode to my website.
-category: technology
+category: Technology
 tags:
   - gatsbyjs darkmode accessibility colour-blindness css
 ---
