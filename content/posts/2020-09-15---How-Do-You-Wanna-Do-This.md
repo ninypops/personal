@@ -14,7 +14,7 @@ tags:
   - gatsby
   - development
 ---
-I was in futile pursuit of the perfect stack to build my new website but the truth is, there is no perfect stack. I figured that the most important thing about building your own website is to make it fun. There were many ways this could've go and I spent a handful of nights determining which road I would travel down. Choices were plenty but there was only one way to settle this if I wanted a website up and running before the end of 2020!
+I was in futile pursuit of the perfect stack to build my new website but the truth is, there is no perfect stack. I figured that the most important thing about building your own website is to make it fun. There were many ways this could've gone and I spent a handful of nights determining which road I would travel down. Choices were plenty but there was only one way to settle this if I wanted a website up and running before the end of 2020!
 
 ![Woman looking at her watch](/media/tumblr_oj6coboopr1uc2rq2o6_400.webp)
 
@@ -48,8 +48,6 @@ There were a couple issues that cropped up when compiling.
 These issues were specific to the the starter-theme that I had picked out from [Gatsby's Starter Library](https://www.gatsbyjs.com/starters/) and luckily, there was some chatter about this in the repo. They weren't difficult to resolve and it didn't take long for me to finally have a website up and running! The rest was seamless. Netlify deployments work a treat and I'm really satisfied with the route I went down.
 
 #### **Conclusions:**
-
-My website speed is currently around 490 ms, out of the box.
 
 So, now that I've got a fully functioning website. What happens next? Well, my hope is to continue to write posts about my experiences as a front-end developer, ad-hoc life-pieces and anything else I think is worthy of noting. It is my playground, after all.
 
