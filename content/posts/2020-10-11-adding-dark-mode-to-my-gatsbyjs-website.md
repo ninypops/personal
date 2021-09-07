@@ -9,7 +9,7 @@ category: Technology
 tags:
   - gatsbyjs darkmode accessibility colour-blindness css
 ---
-Contrary to popular beliefs, I'm not all that enthusiastic of dark modes in my IDE. I am of the few who prefers a light mode. Now, there's absolutely nothing wrong with a light mode, of course, except that your colleague will never get over the fact that you're using one. Whenever I'm peer programming, the first thing my colleague remarks on isn't on my code but the theme of my code editor. So, for my friends who consider themselves nocturnal or just prefer the visual prettiness of a dark mode, I'm happy to announce that my website now dons one.
+Contrary to popular beliefs, I'm not all that enthusiastic of dark modes in my IDE. I am of the few who prefers a light mode. Now, there's absolutely nothing wrong with a light mode except for the fact that your colleague will never stop roasting you for it. Whenever I'm peer programming, the first thing my colleague remarks on isn't my code but the theme of my code editor. So, for my friends who consider themselves nocturnal or just prefer the visual prettiness of a dark mode, I'm happy to announce that my website now dons one.
 
 > gif of website dark mode
 >
@@ -25,8 +25,12 @@ What's encouraging is that there is increasingly more tools built into our softw
 
 When planning the development of my website, I knew that I wanted to use it as a playground to improve my skills but furthermore, develop an accessibility-first approach. An obvious win for this would be to generate colour themes that were considerate of colour-blindness and eye strain.
 
-A user case for this would be someone navigating to my website at 10 o'clock at night in a dimly-lit room.
+A use case for this would be someone navigating to my website at 10 o'clock at night in a dimly-lit room.
 
 > gif of someone eye strain at night
 
-We've all been there and it's not fun.
+We've all been there and it's not fun...
+
+#### The implementation
+
+Here's how I went about getting a dark mode integrated into my website.
