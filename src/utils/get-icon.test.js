@@ -8,4 +8,5 @@ test('getIcon', () => {
   expect(getIcon('email')).toEqual(ICONS.EMAIL);
   expect(getIcon('linkedin')).toEqual(ICONS.LINKEDIN);
   expect(getIcon('codepen')).toEqual(ICONS.CODEPEN);
+  expect(getIcon('polywork')).toEqual(ICONS.POLYWORK);
 });

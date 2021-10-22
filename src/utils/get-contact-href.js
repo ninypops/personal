@@ -18,6 +18,9 @@ const getContactHref = (name: string, contact: string) => {
     case 'codepen':
       href = `https://www.codepen.io/${contact}`;
       break;
+    case 'polywork':
+      href = `https://www.polywork.com/${contact}`;
+      break;
     default:
       href = contact;
       break;

@@ -30,7 +30,7 @@ module.exports = {
       github: 'ninypops',
       linkedin: 'ninalimbrick',
       codepen: '',
-      // TODO: Add polywork
+      polywork: 'ninypops',
     }
   }
 };

@@ -17,6 +17,7 @@ const useSiteMetadata = () => {
                 twitter
                 email
                 codepen
+                polywork
               }
             }
             menu {

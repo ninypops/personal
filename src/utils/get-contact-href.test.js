@@ -7,4 +7,5 @@ test('getContactHref', () => {
   expect(getContactHref('email', '#')).toBe('mailto:#');
   expect(getContactHref('linkedin', '#')).toBe('https://www.linkedin.com/in/#');
   expect(getContactHref('codepen', '#')).toBe('https://www.codepen.io/#');
+  expect(getContactHref('polywork', '#')).toBe('https://polywork.com/#');
 });
