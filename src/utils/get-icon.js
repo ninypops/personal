@@ -20,6 +20,9 @@ const getIcon = (name: string) => {
     case 'codepen':
       icon = ICONS.CODEPEN;
       break;
+    case 'polywork':
+      icon = ICONS.POLYWORK;
+      break;
     default:
       icon = {};
       break;
