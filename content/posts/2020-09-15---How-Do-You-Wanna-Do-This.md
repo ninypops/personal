@@ -14,7 +14,7 @@ tags:
   - gatsby
   - development
 ---
-I was in futile pursuit of the perfect stack to build my new website but the truth is, there is no perfect stack. I figured that the most important thing about building your own website is to make it fun. There were many ways this could've gone and I spent a handful of nights determining which road I would travel down. Choices were plenty but there was only one way to settle this if I wanted a website up and running before the end of 2020!
+I was in futile pursuit of the perfect stack to build my new website but the truth is, <strong><em>there is no perfect stack</em></strong>. I figured that the most important thing about building my own website is to <strong>make it fun</strong>. There were many ways this could've gone and I spent a handful of nights determining which road I would travel down. Choices were plenty but there was only one way to settle this if I wanted a website up and running before the end of 2020!
 
 ![Woman looking at her watch](/media/tumblr_oj6coboopr1uc2rq2o6_400.webp)
 
