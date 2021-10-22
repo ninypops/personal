@@ -2,7 +2,7 @@
 template: post
 slug: how-do-you-wanna-do-this
 draft: false
-socialImage: /media/photo-1508830524289-0adcbe822b40.jpg
+socialImage: /media/how-do-you-wanna-do-this.jpg
 title: How Do You Wanna Do This?
 date: 2020-09-15T20:41:36.351Z
 description: Creating a new website presented the opportunity to explore new
@@ -16,7 +16,7 @@ tags:
 ---
 I was in futile pursuit of the perfect stack to build my new website but the truth is, <strong><em>there is no perfect stack</em></strong>. I figured that the most important thing about building my own website is to <strong>make it fun</strong>. There were many ways this could've gone and I spent a handful of nights determining which road I would travel down. Choices were plenty but there was only one way to settle this if I wanted a website up and running before the end of 2020!
 
-![Woman looking at her watch](/media/tumblr_oj6coboopr1uc2rq2o6_400.webp)
+<!-- ![Woman looking at her watch](/media/tumblr_oj6coboopr1uc2rq2o6_400.webp) -->
 
 #### **So, what was it going to be?**
 
@@ -51,4 +51,4 @@ These issues were specific to the the starter-theme that I had picked out from [
 
 So, now that I've got a fully functioning website. What happens next? Well, my hope is to continue to write posts about my experiences as a front-end developer, ad-hoc life-pieces and anything else I think is worthy of noting. It is my playground, after all.
 
-![Woman smirking. She looks to be pleased with herself.](/media/tenor.gif)
+<!-- ![Woman smirking. She looks to be pleased with herself.](/media/tenor.gif) -->
