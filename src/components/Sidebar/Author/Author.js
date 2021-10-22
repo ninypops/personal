@@ -20,7 +20,7 @@ const Author = ({ author, isIndex }: Props) => (
         className={styles['author__photo']}
         width="75"
         height="75"
-        alt={author.name}
+        alt={author.nickname}
       />
     </Link>
 
