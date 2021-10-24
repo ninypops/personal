@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Nina Limbrick',
     photo: '/photo.JPG',
-    bio: 'I specialise in front-end-technologies (namely React, JS, HTML & CSS).',
+    bio: 'I specialise in front-end-technologies (React, JS, HTML & CSS).',
     contacts: {
       email: '',
       twitter: 'ninypops',
