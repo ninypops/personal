@@ -3,7 +3,7 @@ template: post
 slug: how-do-you-wanna-do-this
 draft: false
 socialImage: /media/how-do-you-wanna-do-this.jpg
-title: How Do You Wanna Do This?
+title: How do you wanna do this?
 date: 2020-09-15T20:41:36.351Z
 description: Creating a new website presented the opportunity to explore new
   frameworks but I really wasn't ready for just how many there were to choose
