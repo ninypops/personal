@@ -11,7 +11,7 @@ I lean towards projects that are <strong>centered around people</strong> and are
 
 People are the most important part about working on a project, whether that be the team I'm working with or a client I'm building for. I aim to make projects that add value and benefit to the lives of others.
 
-As a <strong><a target="_blank" rel="noopener noreferrer" href="https://gitnation.org/">GitNation</a> Resident</strong>, I'm an avid tech conference attendee and advocate for forever-learning and networking within the industry. I am also involved with local monthly tech events in and around my area.
+As a <strong><a target="_blank" rel="noopener noreferrer" href="https://gitnation.org/">GitNation</a> Resident</strong>, I'm an avid tech conference attendee while also staying involved locally at meet-ups in and around my area.
 
 When I'm <strong>not</strong> writing code, I'm usually fighting my way through <strong>virtual (and real) world pandemics</strong>, going to <strong>live music events</strong> and hanging out at my favourite <strong>independent coffee shop</strong>.
 

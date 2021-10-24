@@ -24,7 +24,7 @@ module.exports = {
     name: 'Nina Limbrick',
     nickname: 'ninypops',
     photo: '/ninypops_profile.png',
-    bio: 'I specialise in front-end-technologies (React, JS, HTML & CSS).',
+    bio: 'Front-end developer using React. Currently navigating a pandemic. (she/they)',
     contacts: {
       email: '',
       twitter: 'ninypops',
