@@ -19,7 +19,7 @@ Contrary to popular beliefs, I'm not all that enthusiastic of dark modes in my I
 
 What's encouraging is that there is increasingly more tools built into our software and browsers now that improve contrast and help to reduce eye strain. I've definitely benefited from using them. However, dark modes are no stranger to programmers. They've been around since the very beginning.
 
-![The original IBM computer.](/media/ibm_computer.gif)
+![The original IBM computer.](/media/ibm_computer.webp)
 
 #### The implementation
 
