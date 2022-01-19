@@ -30,7 +30,6 @@ This is a GatsbyJS website, hosted by Netlify.
     │   ├── Pagination
     │   ├── Post
     │   │   ├── Author
-    │   │   ├── Comments
     │   │   ├── Content
     │   │   ├── Meta
     │   │   └── Tags

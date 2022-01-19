@@ -28,7 +28,6 @@ const useSiteMetadata = () => {
             url
             title
             subtitle
-            disqusShortname
           }
         }
       }
