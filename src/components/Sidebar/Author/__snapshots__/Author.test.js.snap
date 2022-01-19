@@ -8,10 +8,9 @@ exports[`Author renders correctly 1`] = `
     href="/"
   >
     <img
-      alt="test"
       className="author__photo"
       height="75"
-      src="/photo.jpg"
+      src="/ninypops_profile.jpg"
       width="75"
     />
   </a>
@@ -22,13 +21,13 @@ exports[`Author renders correctly 1`] = `
       className="author__title-link"
       href="/"
     >
-      test
+      Nina Limbrick
     </a>
   </h2>
   <p
     className="author__subtitle"
   >
-    test
+    Front-end developer using React. Currently navigating a pandemic. (she/they)
   </p>
 </div>
 `;

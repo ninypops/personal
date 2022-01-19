@@ -6,9 +6,9 @@ import Author from './Author';
 describe('Author', () => {
   const props = {
     author: {
-      name: 'test',
-      photo: '/photo.jpg',
-      bio: 'test'
+      name: 'Nina Limbrick',
+      photo: '/ninypops_profile.jpg',
+      bio: 'Front-end developer using React. Currently navigating a pandemic. (she/they)'
     },
     isIndex: false
   };

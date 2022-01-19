@@ -2,7 +2,7 @@
 
 exports[`Author renders correctly 1`] = `
 <div
-  className="author"
+  className="author__name"
 >
   <p
     className="author__bio"
@@ -14,9 +14,7 @@ exports[`Author renders correctly 1`] = `
       rel="noopener noreferrer"
       target="_blank"
     >
-      <strong>
-        Test name
-      </strong>
+      <strong />
        on Twitter
     </a>
   </p>
