@@ -7,16 +7,6 @@ date: 2020-09-16T10:36:53.617Z
 description: 5 Female Characters in TV that have personally inspired me and
   represented diverse women in the television industry.
 category: Media, 5OMF
-tags:
-  - top 5 characters in tv
-  - ashley johnson blindspot
-  - maggie q nikita
-  - evelyne brochu orphan black
-  - kerry washington scandal
-  - sandra oh greys
-  - women in tv
-  - strong female lead
-  - female representation
 ---
 > 5OMF stands for '5 Of My Favourites". It's a blog series that occasionally highlights 5 things within a particular medium that I wish to bring under the spotlight.
 
@@ -45,5 +35,3 @@ Test
 #### Delphine Cormier, Orphan Black
 
 Test
-
-ok
