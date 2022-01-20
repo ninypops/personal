@@ -8,7 +8,6 @@ module.exports = {
   copyright: '© All rights reserved.',
   postsPerPage: 4,
   googleAnalyticsId: '',
-  useKatex: false,
   menu: [
     {
       label: 'Articles',
