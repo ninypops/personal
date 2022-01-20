@@ -1,17 +1,12 @@
 ---
 slug: add-dark-light-mode
-draft: true
+draft: false
 socialImage: /media/light_dark_mode_social.jpg
 template: post
 title: Add light/dark mode to a GatsbyJS website
 date: 2020-10-11T09:18:13.971Z
 description: Here's how I approached adding alternate light/dark themes to this website.
 category: Technology
-tags:
-  - gatsbyjs
-  - darkmode
-  - accessibility
-  - css
 ---
 Contrary to popular beliefs, I'm not all that enthusiastic of dark modes in my IDE. Now, there's absolutely nothing wrong with a light theme, except for the fact that your colleague will never stop roasting you for it. Whenever I'm peer programming, the first thing that my colleague remarks on isn't my code - it's the theme of my code editor. So, for my friends who consider themselves nocturnal or just prefer the visual prettiness of a dark mode, I'm happy to announce that my website now dons one.
 
@@ -23,4 +18,4 @@ What's encouraging is that there is increasingly more tools built into our softw
 
 #### The implementation
 
-Here's how I went about getting a dark mode integrated into my website.
+[Here's how I went about getting a dark mode integrated into my website.]

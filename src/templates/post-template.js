@@ -33,12 +33,10 @@ export const query = graphql`
       html
       fields {
         slug
-        tagSlugs
       }
       frontmatter {
         date
         description
-        tags
         title
       }
     }

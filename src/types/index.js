@@ -13,7 +13,6 @@ export type Entry = {
 export type WidgetFor = (string) => string;
 
 export type PageContext = {
-  tag: string,
   category: string,
   currentPage: number,
   prevPagePath: string,
@@ -26,13 +25,11 @@ export type Node = {
   fields: {
     slug: string,
     categorySlug?: string,
-    tagSlugs?: string[]
   },
   frontmatter: {
     date: string,
     description?: string,
     category?: string,
-    tags?: string[],
     title: string,
     socialImage?: {
       publicURL: string

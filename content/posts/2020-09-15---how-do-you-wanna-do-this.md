@@ -9,10 +9,6 @@ description: Creating a new website presented the opportunity to explore new
   frameworks but I really wasn't ready for just how many there were to choose
   from.
 category: Technology
-tags:
-  - technology
-  - gatsby
-  - development
 ---
 I was in futile pursuit of the perfect stack to build my new website but the truth is, <strong><em>there is no perfect stack</em></strong>. I figured that the most important thing about building my own website is to <strong>make it fun</strong>. There were many ways this could've gone and I spent a handful of nights determining which road I would travel down. Choices were plenty but there was only one way to settle this if I wanted a website up and running before the end of 2020!
 
