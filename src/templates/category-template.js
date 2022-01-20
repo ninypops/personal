@@ -34,12 +34,14 @@ const CategoryTemplate = ({ data, pageContext }: Props) => {
       <Sidebar />
       <Page title={category}>
         <Feed edges={edges} />
-        <Pagination
-          prevPagePath={prevPagePath}
-          nextPagePath={nextPagePath}
-          hasPrevPage={hasPrevPage}
-          hasNextPage={hasNextPage}
-        />
+        { hasPrevPage || hasNextPage && (
+          <Pagination
+            prevPagePath={prevPagePath}
+            nextPagePath={nextPagePath}
+            hasPrevPage={hasPrevPage}
+            hasNextPage={hasNextPage}
+          />
+        )}
       </Page>
     </Layout>
   );
