@@ -22,7 +22,7 @@ module.exports = {
   author: {
     name: 'Nina Limbrick',
     nickname: 'ninypops',
-    photo: '/ninypops_profile.png',
+    photo: '/ninypops.png',
     bio: 'Front-end developer using React. Currently navigating a pandemic. (she/they)',
     contacts: {
       email: '',

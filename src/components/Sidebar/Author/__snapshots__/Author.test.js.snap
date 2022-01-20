@@ -10,7 +10,7 @@ exports[`Author renders correctly 1`] = `
     <img
       className="author__photo"
       height="75"
-      src="/ninypops_profile.jpg"
+      src="/ninypops.jpg"
       width="75"
     />
   </a>
