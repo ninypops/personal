@@ -32,7 +32,6 @@ This is a GatsbyJS website, hosted by Netlify.
     │   │   ├── Author
     │   │   ├── Content
     │   │   ├── Meta
-    │   │   └── Tags
     │   └── Sidebar
     │       ├── Author
     │       ├── Contacts
