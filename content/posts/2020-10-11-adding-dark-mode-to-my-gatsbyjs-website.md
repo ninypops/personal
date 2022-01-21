@@ -1,6 +1,6 @@
 ---
 slug: add-dark-light-mode
-draft: false
+draft: true
 socialImage: /media/light_dark_mode_social.jpg
 template: post
 title: Add light/dark mode to a GatsbyJS website
