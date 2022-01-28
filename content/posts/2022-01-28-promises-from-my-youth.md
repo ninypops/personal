@@ -2,7 +2,8 @@
 template: post
 title: Promises from my youth
 slug: promises-from-my-youth
-draft: true
+draft: false
+socialImage: /media/promises-from-my-youth.jpg
 date: 2021-10-23T20:00:44.243Z
 description: My reflections on England women's professional debut at Wembley.
 category: Thought-piece
