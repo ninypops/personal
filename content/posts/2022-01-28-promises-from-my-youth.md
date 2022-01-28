@@ -5,7 +5,7 @@ slug: promises-from-my-youth
 draft: true
 date: 2021-10-23T20:00:44.243Z
 description: My reflections on England women's professional debut at Wembley.
-category: thought-pieces
+category: Thought-piece
 ---
 There are many ways to spend a Saturday. Personally, I'm a sucker for a slow start to the day. Today, however was a little different. Today, I was about to witness history at the Wembley Football Stadium. A rare and special occassion.
 
