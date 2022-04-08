@@ -1,4 +1,7 @@
+.gitignore
 node_modules/
 .cache/
 public/
 package-lock.json
+yarn.lock
+TODO.md
