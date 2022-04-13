@@ -21,7 +21,7 @@ module.exports = {
   author: {
     name: 'Nina Limbrick',
     nickname: 'ninypops',
-    photo: '/ninypops.png',
+    photo: '/ninypops.webp',
     bio: 'Front-end developer using React. Currently navigating a pandemic. (she/they)',
     contacts: {
       email: '',
