@@ -15,9 +15,11 @@
       @include line-height(1.5);
       @include margin-top(0);
       @include margin-bottom(.5);
+      @include padding(.5, 0);
 
       &-link {
         color: $color-primary;
+        @include padding(.2, 0);
       }
 
     }
@@ -29,31 +31,24 @@
     }
 
     &-meta {
+      font-size: $typographic-small-font-size;
       &-time {
-        font-size: $typographic-small-font-size;
         color: $color-base;
         font-weight: 600;
         text-transform: uppercase;
       }
 
       &-divider {
-        margin: 0 5px;
+        margin: 0 10px;
       }
 
       &-category {
         &-link {
-          font-size: $typographic-small-font-size;
           color: $color-secondary;
           font-weight: 600;
           text-transform: uppercase;
-
-          &:hover,
-          &:focus {
-            border-bottom: 1px solid;;
-          }
-
+          @include padding(.2, 0);
         }
-
       }
 
     }
